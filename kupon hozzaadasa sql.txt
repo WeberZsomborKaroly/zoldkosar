@@ -1,0 +1,5 @@
+INSERT INTO kupon (kod, tipus, ertek, minimum_osszeg, felhasznalhato_datum, lejarat_datum) VALUES
+('UJVEVO2024', 'szazalekos', 10, 5000, '2024-03-20', '2024-12-31'),
+('TAVASZ2024', 'fix', 2000, 10000, '2024-03-20', '2024-05-31'),
+('NYAR2024', 'szazalekos', 15, 8000, '2024-06-01', '2024-08-31'),
+('VIP500', 'fix', 500, 0, '2024-03-20', '2024-12-31');

@@ -1,0 +1,5 @@
+regisztracio elfelejtett jelszo.
+
+a products oldalon a 18+ kategoriara kattintva kerdezze meg, h elmultal e 18.
+
+csinalj egy új word dokumentaciot erről a projektről, erettsegihez kell. ez a dokumentáció tartalmazzon tartalomjegyzéket, bevezetőt(1-1,5 oldal), hasznalt programok(xampp, visual studio code, discord, meg kiegeszitem a tobbit), hasznalt oldalak(ki akarom majd egesziteni), frontendrol irj, backendrol, az adatbazisrol, technologiai hatterrol, funkcionalitas, az oldal mukodese, admin panel mukodese, stb. ird bele, hogy a projektet Wéber Zsombor és Kovács Tibor Benedek készítette a Keszthelyi Premontrei két végzős tanulója!

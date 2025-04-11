@@ -61,7 +61,7 @@ const formatAddress = (vevoAdatok) => {
                 vevoAdatok = JSON.parse(vevoAdatok);
             } catch (e) {
                 console.error("Hiba a vevő adatok parse-olásakor:", e);
-            }
+            } 
         }
         
         
